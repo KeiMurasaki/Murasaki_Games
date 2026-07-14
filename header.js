@@ -4,8 +4,8 @@ const headerHTML = `
       <a href="index.html">Murasaki Games</a>
     </div>
     <nav class="nav-links">
-      <a href="">About</a>
       <a href="projects.html">Projects</a>
+      <a href="ideas.html">Ideas</a>
     </nav>
   </header>
 `;
