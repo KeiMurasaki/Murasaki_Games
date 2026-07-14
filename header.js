@@ -1,12 +1,11 @@
 const headerHTML = `
   <header class="main-header">
     <div class="logo">
-      <a href="index.html">My Cool Website</a>
+      <a href="index.html">Murasaki Games</a>
     </div>
     <nav class="nav-links">
-      <a href="index.html">Home</a>
       <a href="">About</a>
-      <a href="">Projects</a>
+      <a href="projects.html">Projects</a>
     </nav>
   </header>
 `;
